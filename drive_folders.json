@@ -1,0 +1,33 @@
+{
+ "project": "2026.10.30_Paper10.1_iso-1e6_FLUKA",
+ "root": "123tGgn091pML-EQOPzErGX1KmPdBs3RO",
+ "tiers": {
+  "01_Summary_Excel_Results": "1UFZshl80JirJcQ-PAJ6IzjBc303BkW_x",
+  "02_Flux_Data": "1BQ5qaCxxdShyd0zgYLINUnoWGx5s_uJS",
+  "03_Simulation_Outputs": "162LjtHkbtuH0OkluINi13fjoUNu1rh1v",
+  "04_Input_Decks": "1e0Zv75ZrRnsKssTdMIWTriO7Ct0DVw9I",
+  "05_Execution_Logs_and_Benchmarks": "1UlkipluuK6cCjmC7EzATZAEMsHj6c6OZ"
+ },
+ "sub": {
+  "MAC": {
+   "01_Summary_Excel_Results": "1xoL4m4BLLomeUZP_OaN2V_sS3V73AQmT",
+   "02_Flux_Data": "1LtwIGshnMb30hmU-PZ1UwzrqZo365SoA",
+   "03_Simulation_Outputs": "1Dbk7BapNjPAkaSqKbf-sYcKt-oah4bxj",
+   "04_Input_Decks": "1a-LsSTSvo0c4N3-cde6vb2ABi0ILyx7V",
+   "05_Execution_Logs_and_Benchmarks": "1L1nJiDjNw1Gzg6f0HSAMr7OzfSSWYJZG"
+  }
+ },
+ "flux_samples": {
+  "MAC": {
+   "BLANK": "1qsKTPasGnvQjywquKOf5UNJontYoveh6",
+   "S1": "1i4KL84RXyVSyOHnESb1RElHsrYBerALv",
+   "S2": "14mnpIdOqJqWfpAZsflNAJI1mIDJAvzDG",
+   "S3": "1MVY-tEo2oumnFHt3lnwss2tgWaSgNNOr",
+   "S4": "16r4t2-MzCM5IDvwzqc5rvp6iSVHa-QRC",
+   "S5": "1q3Of9dyKOg-0ixH7K68ecfSAS8q4_aH4",
+   "S6": "1KtXvg0tTQDAfgVdSfI2RuH6dQX3lG3fH",
+   "S7": "1s-qH7MFbpjIAYaYp1bgyJ19hbLRlKSwi",
+   "S8": "1cJrV7hUI4oWQGr1OIfTe7wcL4UiMlCNm"
+  }
+ }
+}
